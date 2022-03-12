@@ -3,7 +3,7 @@ E ai?! Eu sou o Pedro, mais conhecido como ***Bahia*** aqui em São Paulo.
 Atualmente estou atuando como Coordenador de Engenharia de Softaware no <a href = "https://www.bancopan.com.br" target="_blank">Banco Pan</a>. 
 Aqui no Pan eu cuido, junto com meu time, de assuntos como Marketing, Institucional, Design System e alguns projetos de Front-End como Web Banking e Login Global.
 
-Estou terminando meu MBA em Liderança Estratégica de Pessoas pela FGV-SP, em junho de 2022.
+Estou terminando meu MBA em Gestão Estratégica de Pessoas pela FGV-SP, com data fim em junho de 2022.
 
 ### 💬 Sobre o que eu gosto de conversar:
 - Liderança;
@@ -54,7 +54,7 @@ Formalização Digital:
 
 
 ### ☕ Quer trocar ideia?
-- LinkedIn: <a href = "https://www.linkedin.com/in/delfinopedro/" target="_blank" title="LinkedIn Pedro Delfino">Pedro Delfino</a>;
-- Twitter: <a href = "https://www.linkedin.com/in/delfinopedro/" target="_blank" title="Twitter Pedro Delfino">@pedrodellfino</a>;
-- Instagram: <a href = "https://www.instagram.com/pedrodellfino/" target="_blank" title="Instagram Pedro Delfino">@pedrodellfino</a>;
-- Email: <a href="mailto:pedrodelfino.me@gmail.com?subject=Quero trocar ideia!">pedrodelfino.me@gmail.com</a>;
+- LinkedIn: <a href = "https://www.linkedin.com/in/delfinopedro/" title="LinkedIn Pedro Delfino">Pedro Delfino</a>;
+- Twitter: <a href = "https://www.linkedin.com/in/delfinopedro/" title="Twitter Pedro Delfino">@pedrodellfino</a>;
+- Instagram: <a href = "https://www.instagram.com/pedrodellfino/" title="Instagram Pedro Delfino">@pedrodellfino</a>;
+- Email: <a href="mailto:pedrodelfino.me@gmail.com?subject=Quero trocar ideia!" title="Mandar um email para Pedro Delfino">pedrodelfino.me@gmail.com</a>;
