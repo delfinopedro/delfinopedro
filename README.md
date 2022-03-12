@@ -33,7 +33,7 @@ Estou terminando meu MBA em Liderança Estratégica de Pessoas pela FGV-SP, em j
 
 
 ### ✔️ O que conquistei por onde passei:
-# Site Institucional:
+Site Institucional:
 - Evolução de tempo médio de carregamento de 7s para 1.8s;
 - Evolução de Satisfação média das sessões de 50% para 82%;
 - Evolução de APDEX médio de 0.15 para 0.94;
@@ -41,7 +41,7 @@ Estou terminando meu MBA em Liderança Estratégica de Pessoas pela FGV-SP, em j
 - Crescimento de 177% no número de leads gerados de 2.9MM para 8MM;
 - Crescimento de 68% no número de cliques orgânicos de 7.4MM para 12.5MM;
 
-# Formalização Digital:
+Formalização Digital:
 - R$ 10Bi+ de créditos formalizados digitalmente em 18 meses
 
 
