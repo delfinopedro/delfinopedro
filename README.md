@@ -42,7 +42,13 @@ Site Institucional:
 - Crescimento de 68% no número de cliques orgânicos de 7.4MM para 12.5MM;
 
 Formalização Digital:
-- R$ 10Bi+ de créditos formalizados digitalmente em 18 meses
+- R$ 10Bi+ de créditos formalizados digitalmente em 18 meses;
+
+Design System:
+- Uso disseminado por mais de 13 produtos;
+
+Guilda de Front-End:
+- Redução de custos de apliações de Front-End em 99% com migração de infraestrutura;
 
 
 ### 👩‍💻 Eu estou trabalhando, junto com meus times, com:
@@ -51,8 +57,6 @@ Formalização Digital:
 - Blog do Banco Pan;
 - Web Banking do Banco Pan (Gestão compartilhada);
 - Login Global do Banco Pan (Gestão compartilhada);
-
-
 ### ☕ Quer trocar ideia?
 - LinkedIn: <a href = "https://www.linkedin.com/in/delfinopedro/" title="LinkedIn Pedro Delfino">Pedro Delfino</a>;
 - Twitter: <a href = "https://www.linkedin.com/in/delfinopedro/" title="Twitter Pedro Delfino">@pedrodellfino</a>;
