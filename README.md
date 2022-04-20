@@ -1,6 +1,6 @@
 E ai?! Eu sou o Pedro, mais conhecido como ***Bahia*** aqui em São Paulo.
 
-Atualmente estou atuando como Coordenador de Engenharia de Softaware no <a href = "https://www.bancopan.com.br" target="_blank">Banco Pan</a>. 
+Atualmente estou atuando como Coordenador de Engenharia de Software no <a href = "https://www.bancopan.com.br" target="_blank">Banco Pan</a>. 
 Aqui no Pan eu cuido, junto com meu time, de assuntos como Marketing, Institucional, Design System e alguns projetos de Front-End como Web Banking e Login Global.
 
 Estou terminando meu MBA em Gestão Estratégica de Pessoas pela FGV-SP, com data fim em junho de 2022.
