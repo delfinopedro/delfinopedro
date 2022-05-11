@@ -57,8 +57,11 @@ Guilda de Front-End:
 - Blog do Banco Pan;
 - Web Banking do Banco Pan (Gestão compartilhada);
 - Login Global do Banco Pan (Gestão compartilhada);
+
+
 ### ☕ Quer trocar ideia?
 - LinkedIn: <a href = "https://www.linkedin.com/in/delfinopedro/" title="LinkedIn Pedro Delfino">Pedro Delfino</a>;
 - Twitter: <a href = "https://www.linkedin.com/in/delfinopedro/" title="Twitter Pedro Delfino">@pedrodellfino</a>;
 - Instagram: <a href = "https://www.instagram.com/pedrodellfino/" title="Instagram Pedro Delfino">@pedrodellfino</a>;
+- Medium: <a href = "http://delfinopedro.medium.com/" title="Medium Pedro Delfino">@delfinopedro</a>;
 - Email: <a href="mailto:pedrodelfino.me@gmail.com?subject=Quero trocar ideia!" title="Mandar um email para Pedro Delfino">pedrodelfino.me@gmail.com</a>;
