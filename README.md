@@ -1,11 +1,9 @@
 E ai?! Eu sou o Pedro, mais conhecido como ***Bahia*** aqui em São Paulo.
 
-Atualmente estou atuando como Coordenador de Engenharia de Software no <a href = "https://www.bancopan.com.br" target="_blank">Banco Pan</a>. 
-Aqui no Pan eu cuido, junto com meu time, de assuntos como Marketing, Institucional, Design System e alguns projetos de Front-End como Web Banking e Login Global.
+Atualmente estou atuando como Gerente de Engenharia de Software no <a href = "https://www.bancopan.com.br" target="_blank">Banco Pan</a>. 
+Aqui no Pan eu cuido, junto com meu time, de assuntos como CRM, Marketing Institucional e Design System.
 
-Estou terminando meu MBA em Gestão Estratégica de Pessoas pela FGV-SP, com data fim em junho de 2022.
-
-### 💬 Sobre o que eu gosto de conversar:
+### Sobre o que eu gosto de conversar:
 - Liderança;
 - Desenvolvimento Front-End;
 - Performance WEB;
@@ -23,6 +21,11 @@ Estou terminando meu MBA em Gestão Estratégica de Pessoas pela FGV-SP, com dat
 ### 💡 O que eu estou estudando:
 - Performance WEB;
 - Core Web Vitals;
+
+
+### 💬 Sobre o que eu já palestrei:
+- Design System: <a href="https://www.youtube.com/watch?v=C53vBigB7hs" title="Palestra sobre Design System no YouTube">Link do YouTube</a>;
+- Uso de S3 para Front-End: vídeo em breve;
 
 
 ### 🔭 Tecnologias que eu trabalho ou já trabalhei:
@@ -55,8 +58,8 @@ Guilda de Front-End:
 - Desenvolvimento do Design System agnóstico do Banco Pan usando Web Components e StencilJS;
 - Websites e Landing Pages do Banco Pan;
 - Blog do Banco Pan;
-- Web Banking do Banco Pan (Gestão compartilhada);
-- Login Global do Banco Pan (Gestão compartilhada);
+- Visão única de cliente;
+- Barramento de mensagerias;
 
 
 ### ☕ Quer trocar ideia?
