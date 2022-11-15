@@ -25,8 +25,8 @@ Aqui no Pan eu cuido, junto com meu time, de assuntos como CRM, Marketing Instit
 
 
 ### 💬 Sobre o que eu já palestrei:
-- Design System: <a href="https://www.youtube.com/watch?v=C53vBigB7hs" title="Palestra sobre Design System no YouTube">Link do YouTube</a>;
-- Uso de S3 para Front-End: vídeo em breve;
+- Design System: <a href = "https://www.youtube.com/watch?v=9iI0NAE6iuk" title="TDC Innovation 2022">Palestra</a>;
+- Uso de S3 para Front-End: <a href = "https://www.youtube.com/watch?v=uaRgSgZjD-8" title="TDC Business 2022">Palestra</a>;
 
 
 ### 🔭 Tecnologias que eu trabalho ou já trabalhei:
@@ -69,8 +69,3 @@ Guilda de Front-End:
 - Instagram: <a href = "https://www.instagram.com/pedrodellfino/" title="Instagram Pedro Delfino">@pedrodellfino</a>;
 - Medium: <a href = "http://delfinopedro.medium.com/" title="Medium Pedro Delfino">@delfinopedro</a>;
 - Email: <a href="mailto:pedrodelfino.me@gmail.com?subject=Quero trocar ideia!" title="Mandar um email para Pedro Delfino">pedrodelfino.me@gmail.com</a>;
-
-
-### Quer assistir minhas palestras?
-- TDC Innovation 2022: <a href = "https://www.youtube.com/watch?v=9iI0NAE6iuk" title="TDC Innovation 2022">Palestra sobre Design System</a>;
-- TDC Business 2022: <a href = "https://www.youtube.com/watch?v=uaRgSgZjD-8" title="TDC Business 2022">Palestra sobre o uso do S3 para Front-End</a>;
