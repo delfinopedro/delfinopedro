@@ -1,4 +1,4 @@
-E ai?! Eu sou o Pedro, mais conhecido como ***Bahia*** aqui em São Paulo.
+E ai, beleza?! Eu sou o Pedro, mais conhecido como ***Bahia*** aqui em São Paulo.
 
 Atualmente estou atuando como Gerente de Engenharia de Software no <a href = "https://www.bancopan.com.br" target="_blank">Banco Pan</a>. 
 Aqui no Pan eu cuido, junto com meu time, de assuntos como CRM, Marketing Institucional e Design System.
@@ -12,6 +12,7 @@ Aqui no Pan eu cuido, junto com meu time, de assuntos como CRM, Marketing Instit
 
 
 ### 🎓 O que eu já estudei:
+- Coaching;
 - Management 3.0;
 - Comunicação não violenta;
 - Kanban Foundation;
@@ -68,3 +69,8 @@ Guilda de Front-End:
 - Instagram: <a href = "https://www.instagram.com/pedrodellfino/" title="Instagram Pedro Delfino">@pedrodellfino</a>;
 - Medium: <a href = "http://delfinopedro.medium.com/" title="Medium Pedro Delfino">@delfinopedro</a>;
 - Email: <a href="mailto:pedrodelfino.me@gmail.com?subject=Quero trocar ideia!" title="Mandar um email para Pedro Delfino">pedrodelfino.me@gmail.com</a>;
+
+
+### Quer assistir minhas palestras?
+- TDC Innovation 2022: <a href = "https://www.youtube.com/watch?v=9iI0NAE6iuk" title="TDC Innovation 2022">Palestra sobre Design System</a>;
+- TDC Business 2022: <a href = "https://www.youtube.com/watch?v=uaRgSgZjD-8" title="TDC Business 2022">Palestra sobre o uso do S3 para Front-End</a>;
