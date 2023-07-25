@@ -29,6 +29,7 @@ Aqui no Pan eu cuido, junto com meu time, de assuntos de Tecnologia como CRM, Ma
 - Design System: <a href = "https://www.youtube.com/watch?v=9iI0NAE6iuk" title="TDC Innovation 2022">Palestra</a>;
 - Uso de S3 para Front-End: <a href = "https://www.youtube.com/watch?v=uaRgSgZjD-8" title="TDC Business 2022">Palestra</a>;
 - Práticas de performance WEB: <a href = "https://www.youtube.com/watch?v=OnXCDtGEGcA" title="TDC Future 2022">Palestra</a>;
+- Jornadas personalizadas usando Adobe Target: <a href = "https://www.youtube.com/watch?v=w8MCK8RY-Xs" title="TDC Innovation 2023">Palestra</a>;
 
 
 ### 🔭 Tecnologias que eu trabalho ou já trabalhei:
