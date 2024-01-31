@@ -1,7 +1,7 @@
 E ai, beleza?! Eu sou o Pedro, mais conhecido como ***Bahia*** aqui em São Paulo.
 
 Atualmente estou atuando como Gerente de Engenharia de Software no <a href = "https://www.bancopan.com.br" target="_blank">Banco Pan</a>. 
-Aqui no Pan eu cuido, junto com meu time, de assuntos de Tecnologia como CRM, Marketing de performance/growth e Design System.
+Aqui no Pan eu cuido, junto com meu time, de assuntos de Tecnologia como CRM, Marketing de performance/growth, MarTech e Design System.
 
 ### Sobre o que eu gosto de conversar:
 - Liderança;
@@ -30,6 +30,7 @@ Aqui no Pan eu cuido, junto com meu time, de assuntos de Tecnologia como CRM, Ma
 - Uso de S3 para Front-End: <a href = "https://www.youtube.com/watch?v=uaRgSgZjD-8" title="TDC Business 2022">Palestra</a>;
 - Práticas de performance WEB: <a href = "https://www.youtube.com/watch?v=OnXCDtGEGcA" title="TDC Future 2022">Palestra</a>;
 - Jornadas personalizadas usando Adobe Target: <a href = "https://www.youtube.com/watch?v=w8MCK8RY-Xs" title="TDC Innovation 2023">Palestra</a>;
+- O que precisamos saber sobre HTML5 e CSS3: <a href = "https://youtu.be/USPiRqioeuE" title="Bootcamp DIO e PAN">Palestra</a>;
 
 
 ### 🔭 Tecnologias que eu trabalho ou já trabalhei:
@@ -62,8 +63,7 @@ Guilda de Front-End:
 - Desenvolvimento do Design System agnóstico do Banco Pan usando Web Components e StencilJS;
 - Websites e Landing Pages do Banco Pan;
 - Blog do Banco Pan;
-- Visão única de cliente;
-- Barramento de mensagerias;
+- MarTech (Adobe, Google, Salesforce);
 
 
 ### ☕ Quer trocar ideia?
