@@ -1,7 +1,6 @@
 E ai, beleza?! Eu sou o Pedro, mais conhecido como ***Bahia*** aqui em São Paulo.
 
-Atualmente estou atuando como Gerente de Engenharia de Software no <a href = "https://www.bancopan.com.br" target="_blank">Banco Pan</a>. 
-Aqui no Pan eu cuido, junto com meu time, de assuntos de Tecnologia como CRM, Marketing de performance/growth, MarTech e Design System.
+Atualmente estou atuando como Gerente de Engenharia de Software.
 
 ### Sobre o que eu gosto de conversar:
 - Liderança;
@@ -38,32 +37,6 @@ Aqui no Pan eu cuido, junto com meu time, de assuntos de Tecnologia como CRM, Ma
 | ------------ | ------------ | ------------ |
 |<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">|<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">|<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">|
 |<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">|<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">|<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">|
-
-
-### ✔️ O que conquistei por onde passei:
-Site Institucional:
-- Evolução de tempo médio de carregamento de 7s para 1.8s;
-- Evolução de Satisfação média das sessões de 50% para 82%;
-- Evolução de APDEX médio de 0.15 para 0.94;
-- Crescimento de 52% no número de visitantes únicos de 15.8MM para 24.1MM;
-- Crescimento de 177% no número de leads gerados de 2.9MM para 8MM;
-- Crescimento de 68% no número de cliques orgânicos de 7.4MM para 12.5MM;
-
-Formalização Digital:
-- R$ 10Bi+ de créditos formalizados digitalmente em 18 meses;
-
-Design System:
-- Uso disseminado por mais de 13 produtos;
-
-Guilda de Front-End:
-- Redução de custos de apliações de Front-End em 99% com migração de infraestrutura;
-
-
-### 👩‍💻 Eu estou trabalhando, junto com meus times, com:
-- Desenvolvimento do Design System agnóstico do Banco Pan usando Web Components e StencilJS;
-- Websites e Landing Pages do Banco Pan;
-- Blog do Banco Pan;
-- MarTech (Adobe, Google, Salesforce);
 
 
 ### ☕ Quer trocar ideia?
